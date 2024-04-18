@@ -1,0 +1,31 @@
+.botao {
+    border: solid white;
+    height: 140px;
+    width: 140px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 100px;
+
+}
+
+.icones {
+    display: flex;
+    flex-wrap: wrap;
+    height: 90vh;
+    justify-content: space-around;
+}
+
+
+
+/* ///////////////////////////////////////////////// */
+/* provavelmente gambiarra para apenas essa pagina, apagar caso todos os botoes fiquem transparente */
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+/* ///////////////////////////////////////////////// */

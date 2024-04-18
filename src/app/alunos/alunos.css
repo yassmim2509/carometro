@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fundocd{
+  background-color: #E61515;
+    height: 100vh;
+    width: 100%;    
+
+}
+.icones{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.imagesenai{
+    height: 10vh;
+    width: 15%;
+    display: flex;
+    block-size:auto;
+    margin: auto;
+}
+.icone{
+    width:80px;
+}
+
+.footer{
+    background-color: #D9D9D9;
+    font-family:"Bebas Neue";
+    text-align: center;
+}
+.l{
+    font-size: 56%;
+    margin-bottom: 0;
+}
+
+.pi{
+    margin:1px;    
+}

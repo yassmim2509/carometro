@@ -1,0 +1,61 @@
+.fundo{
+    background-color:#E61515;
+}
+.img{
+    width: 115vh;
+    height: 100vh;
+
+}
+.cadastro{
+    display: flex;
+    font-family: "Bebas Neue";
+    color: white;
+    justify-content: center;
+    padding-left: 50px  ;
+    padding-top: 150px;
+    font-size: 50px;
+}
+.usuario{
+background-color: #F5F5F5;
+border-radius: 60px;
+border: none;
+width: 80vh;
+height: 7vh;
+margin-top: 40px;
+padding-left: 3%;
+}
+
+ .entrar{
+    display: flex;
+    margin-top: 30px;
+    border-radius: 80px;
+    padding-left: 45px;
+    text-align: center;
+    justify-content: center;
+}
+.redondo{
+    display: flex;
+    border-radius: 80px;
+    width: 7vw;
+    height: 45px;
+    background-color: white;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.cd-se{
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 170px;  
+    font-family:'Julius Sans One'  ;  
+    font-size: 20px;
+}
+.cd-so{
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 200px;  
+    font-family:'Julius Sans One'  ;  
+    font-size: 20px;
+}
+
