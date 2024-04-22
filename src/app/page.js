@@ -19,7 +19,7 @@ export default function Home() {
               <input className="usuario" placeholder="Usuário"></input>
               <input className="usuario" placeholder="Senha"></input>
               <div className="entrar">
-              <a href="/alunos" className=" redondo" >Entrar</a>
+              <a href="/cursos" className=" redondo" >Entrar</a>
               </div>
               <h3 className="cd-se">- Não possui login -</h3>
               <a className="cd-so" href="/cadastro">Cadastre-se</a>

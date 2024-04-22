@@ -1,7 +1,13 @@
+import Navbar from "@/componentes/Navbar"
 export default function Login() {
     return (
         <>
-        <h1>login</h1>
+        <div>
+        <Navbar></Navbar>
+        <h1>oi</h1> 
+        </div>
+        
+
         </>
     )
 }  
