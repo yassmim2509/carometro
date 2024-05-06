@@ -19,7 +19,7 @@ export default function Cadastro() {
                                     <input className="usuario" placeholder="Telefone"></input>
                                     <input className="usuario" type="password" placeholder="Crie uma Senha"></input>
                                     <div className="entrar">
-                                        <a href="/turma" className=" redondo" >Entrar</a>
+                                        <a href="/cursos" className=" redondo" >Entrar</a>
                                 </div>
                             </div>
                         </div>

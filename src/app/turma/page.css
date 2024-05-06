@@ -4,27 +4,27 @@
 }
 .fundocd{
   background-color: #E61515;
-    height: 132vh;
+    height: 110vh;
     width: 100vw;    
-    
+    flex-wrap: wrap;
 
 }
 .icones{
     display: flex;
     justify-content: center;
     flex-direction: column;
+    background-color: #E61515;
+    
 }
 
 .imagesenai{
-    height: 10vh;
-    width: 15%;
+    width: 17%;
     display: flex;
     block-size:auto;
     margin: auto;
-
 }
 .icone{
-    width:80px;
+    width:90px;
 }
 
 .footer{
@@ -32,8 +32,7 @@
     font-family:"Bebas Neue";
     text-align: center;
     padding-top: 10px;
-
-
+    margin-top: 10%;
 }
 
 .l{
@@ -57,8 +56,23 @@
     margin-bottom: 45px;
     margin-top: 30px;
 }
-.nomes{
+.nomes{ 
     font-size: 19px;
     display: flex;
     font-family:'Bebas Neue';
+}
+.alunos{
+    display: flex;
+    justify-content: center;
+    font-family: 'Bebas Neue';
+}
+
+.fundoAlunos{
+    background-color:#E61515;
+}
+.pessoas{
+    display: flex;
+    justify-content: center;
+    font-family: 'Bebas Neue';
+
 }

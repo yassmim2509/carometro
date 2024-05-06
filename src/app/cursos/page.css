@@ -5,8 +5,11 @@
 }
 .turma{
     font-family:'Bebas Neue';
-    font-size: 60px;
+    font-size: 65px;
     margin-top: 0%;
+    color: white;
+    margin-top: 3vh;
+    
 }
 
 .circulo{
@@ -26,10 +29,93 @@
 
 .padding2{
     display: flex;
-    justify-content:left;
-    justify-content: space-around;
+    justify-content:space-between;
+    width: 90%;
+    margin-top: 7vh;
 }
-
+.padding1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 .circulo h2{
     margin-bottom: 0%;
+}
+.circulo2{
+    background-color:white;
+    height: 15vh;
+    width: 15vw;
+    border-radius: 90px;
+    padding: 35px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    font-family:'Bebas Neue';
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.circulo3{
+    background-color:white;
+    height: 15vh;
+    width: 15vw;
+    border-radius: 90px;
+    padding: 35px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    font-family:'Bebas Neue';
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.circulo4{
+    background-color:white;
+    height: 15vh;
+    width: 15vw;
+    border-radius: 90px;
+    padding: 35px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    font-family:'Bebas Neue';
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.circulo5{
+    background-color:white;
+    height: 15vh;
+    width: 15vw;
+    border-radius: 90px;
+    padding: 35px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    font-family:'Bebas Neue';
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.circulo6{
+    background-color:white;
+    height: 15vh;
+    width: 15vw;
+    border-radius: 90px;
+    padding: 35px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    font-family:'Bebas Neue';
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.padding3{
+    display: flex;
+    justify-content:space-between;
+    width: 90%;
+    margin-top: 20vh;
+
+}
+.preto{ 
+    color: black;
+}
+.circulo2 a{
+    text-decoration: none;
 }

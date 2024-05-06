@@ -4,7 +4,7 @@ import Pessoas from "../../componentes/Pessoas/pessoas";
 
 export default function turma() {
     return (
-        <>
+        <div className="fundoAlunos">
             <div className="bodyAlunos">
                 <Navbar></Navbar>
                 <div className="fundocd">
@@ -14,15 +14,16 @@ export default function turma() {
                     </div>
                     <div className="icones">
                         <link href='https://fonts.googleapis.com/css?family=Bebas Neue' rel='stylesheet'></link>
-                        <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/843/843149.png"}></Pessoas>
+
+                        <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/1338/1338037.png"} nome={"Alexandre"}></Pessoas>                        
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/512/10946/10946909.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/512/5020/5020137.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/1053/1053913.png"}></Pessoas>
-                        <Pessoas icone={"https://cdn-icons-png.flaticon.com/512/1338/1338022.png"}></Pessoas>
+                        <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/2945/2945491.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/10946/10946905.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/4478/4478094.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/512/4478/4478100.png"}></Pessoas>
-                        <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/3737/3737567.png"}></Pessoas>
+                        <Pessoas icone={"https://cdn-icons-png.flaticon.com/512/1338/1338022.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/2098/2098339.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/4898/4898026.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/1053/1053907.png"}></Pessoas>
@@ -47,6 +48,7 @@ export default function turma() {
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/2020/2020508.png"}></Pessoas>
                         <Pessoas icone={"https://cdn-icons-png.flaticon.com/256/8065/8065310.png"}></Pessoas>
 
+
                     </div>
                 </div>
 
@@ -59,6 +61,6 @@ export default function turma() {
                 <p className="l"> Copyright 2024 © Todos os direitos reservados.
                     O conteúdo do site não pode ser editado, copiado ou distribuído sem expressa autorização do SENAI-SP.</p>
             </footer>
-        </>
+        </div>
     )
 }       

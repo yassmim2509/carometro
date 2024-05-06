@@ -1,0 +1,33 @@
+.padding{
+    background-color:#E61515;
+    width: 100vw;
+}
+
+.quadrado{
+    border: solid white;
+    height:965px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    margin-left: -330px;
+    margin-top: -328px;
+}
+.imagem11{
+    margin-left: 300px;
+    margin-top: 290px;
+}
+.aluno-titulo{
+    font-family: "Bebas Neue";
+    font-size: 80px;
+    margin-left: 450px;
+    color: aliceblue;
+}
+
+.pageAluno{
+    display: flex;
+}
+.Cel{
+
+}

@@ -16,30 +16,17 @@ export default function Navbar() {
                                 <a class="nav-link active" aria-current="page" href="http://localhost:3000/">Login</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/cursos">Cursos</a>
+                                <a class="nav-link active" aria-current="page" href="/cursos">Turmas</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/turma">Turma</a>
+                                <a class="nav-link active" aria-current="page" href="/turma">Alunos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/app/"> Tire Sua foto</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/app/">Consutas</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/login">Alunos</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/app/">Matrícula</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/app/">Usuários</a>
+                                <a class="nav-link active" aria-current="page" href="/app/">Seu usuário</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active" aria-current="page" href="/app/">Administrador</a>
-                            </li>
+                            </li> 
 
                         </ul>
                     </div>
