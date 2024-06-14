@@ -22,12 +22,8 @@ export default function Navbar() {
                                 <a class="nav-link active" aria-current="page" href="/turma">Alunos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/app/">Seu usuário</a>
+                                <a class="nav-link active" aria-current="page" href="/login/">Seu usuário</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="/app/">Administrador</a>
-                            </li> 
-
                         </ul>
                     </div>
                 </div>

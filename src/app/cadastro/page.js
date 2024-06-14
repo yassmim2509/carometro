@@ -11,7 +11,7 @@ export default function Cadastro() {
                             <link href='https://fonts.googleapis.com/css?family=Bebas Neue' rel='stylesheet'></link>
                             <div className="foms">
                             <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png"></img>
-                                <h1 className="titulocadrastro">C A D A S T R E - S E </h1>
+                                <h1 className="titulocadastro">C A D A S T R E - S E </h1>
 
                                     <input className="usuario" placeholder="Email"></input>
                                     <input className="usuario" placeholder="Idade"></input>

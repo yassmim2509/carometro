@@ -12,7 +12,11 @@
     align-items: center;
     justify-content: center;
     background-color: white;
-    border-radius: 20px;;
+    border-radius: 20px;
+}
+
+.botao img{
+    margin-top: 10%;
 }
 
 .botao p{
@@ -27,7 +31,6 @@
     color:white;
     font-size:40px;
     
-
 }
 
 .icones {

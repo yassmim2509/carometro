@@ -13,7 +13,12 @@ img{
     width: 195px;
 
 }
-
+.titulocadastro{
+    color: aliceblue;
+    font-family: "Bebas Neue";
+    font-size: 60px;
+    margin-top: 1%;
+}
 
 
 .foms{
